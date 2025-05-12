@@ -6,7 +6,7 @@ A lightweight GitHub CLI tool written in C to interact with pull requests of you
 
 ## ✅ Features
 
-### `ghcli pr approvals`
+### `ghcli pr`
 
 Checks for an open pull request on your current Git branch and returns:
 
